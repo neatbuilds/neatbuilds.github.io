@@ -1,0 +1,28 @@
+remote_theme: mmistakes/minimal-mistakes
+
+title: NeatBuilds
+name: NeatBuilds
+email: neatbuilds.apps@gmail.com
+description: >-
+  Android apps and side projects by NeatBuilds.
+  Privacy-first, offline-capable, cleanly built.
+url: "https://neatbuilds.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:neatbuilds.apps@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/neatbuilds"
