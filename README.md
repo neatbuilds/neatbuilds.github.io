@@ -11,6 +11,7 @@ Each app has its own GitHub repository and a corresponding GitHub Pages site:
 | Repository | Public URL | Description |
 |---|---|---|
 | `neatbuilds.github.io` | `neatbuilds.github.io` | Central portfolio page |
+| `ping-reply` | `neatbuilds.github.io/ping-reply` | App page + privacy policy |
 | `wake-me-there` | `neatbuilds.github.io/wake-me-there` | App page + privacy policy |
 
 New repositories follow the same pattern: one repo per app, one GitHub Pages site per app.
